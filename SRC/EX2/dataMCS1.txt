@@ -1,0 +1,7 @@
+Zachary Job
+
+MCS1 data
+	Max:	69.93903
+	Mean:	40.983462
+	Min:		6.677404
+	SD:		13.7993

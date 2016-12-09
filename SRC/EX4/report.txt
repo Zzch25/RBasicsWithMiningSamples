@@ -1,0 +1,70 @@
+Zachary Job
+
+Matrix::
+       x  y
+ [1,]  7 57
+ [2,] 10 62
+ [3,] 13 63
+ [4,] 21 71
+ [5,] 28 78
+ [6,] 28 88
+ [7,] 35 89
+ [8,] 43 90
+ [9,] 44 94
+[10,] 50 98
+
+Distribution::
+           1         2         3         4         5         6         7
+2   5.830952                                                            
+3   8.485281  3.162278                                                  
+4  19.798990 14.212670 11.313708                                        
+5  29.698485 24.083189 21.213203  9.899495                              
+6  37.443290 31.622777 29.154759 18.384776 10.000000                    
+7  42.520583 36.796739 34.058773 22.803509 13.038405  7.071068          
+8  48.836462 43.278170 40.360872 29.068884 19.209373 15.132746  8.062258
+9  52.325902 46.690470 43.840620 32.526912 22.627417 17.088007 10.295630
+10 59.413803 53.814496 50.931326 39.623226 29.732137 24.166092 17.492856
+           8         9
+2                     
+3                     
+4                     
+5                     
+6                     
+7                     
+8                     
+9   4.123106          
+10 10.630146  7.211103
+
+S E E   P D F   P L O T   1
+
+5.2=====
+
+	
+  Group.1 substance      age    female
+1       1 1.2445652 37.99457 0.2391304
+2       2 1.3285714 48.61429 0.2714286
+3       3 0.9246231 28.92965 0.2211055
+
+S E E   P D F   P L O T   2
+
+5.3=====
+
+::ACTUAL::
+ [1] setosa     setosa     setosa     setosa     setosa     setosa    
+ [7] setosa     setosa     setosa     versicolor versicolor versicolor
+[13] versicolor versicolor versicolor versicolor versicolor versicolor
+[19] versicolor versicolor virginica  virginica  virginica  virginica 
+[25] virginica  virginica  virginica  virginica  virginica  virginica 
+Levels: setosa versicolor virginica
+
+"::RESULTS 5::"
+ [1] setosa     setosa     setosa     setosa     setosa     setosa    
+ [7] setosa     setosa     setosa     versicolor versicolor versicolor
+[13] versicolor versicolor versicolor versicolor versicolor versicolor
+[19] versicolor versicolor virginica  virginica  virginica  virginica 
+[25] virginica  virginica  virginica  virginica  virginica  virginica 
+Levels: setosa versicolor virginica
+
+Results...
+[1] "K 5 -> 100.000000"
+
